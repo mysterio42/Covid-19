@@ -9,7 +9,6 @@ wget https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid
 ```
 
 
-![Figure_0.png](figures/Figure_0.png)  
 
 ![Figure_1.png](figures/Figure_1.png)
 
